@@ -1,3 +1,3 @@
 # Mini_poroject
 
-Mini poroject that I did from 2021.06.23
+Mini poroject that I did from 2021.06.22
